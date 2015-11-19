@@ -1,6 +1,6 @@
 # LazyListHelper
 
-How do I use:
+How to use:
 --------------
 In your activity, save data into ArratList with JSONObject.
 ```java
