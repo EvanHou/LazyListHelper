@@ -1,5 +1,15 @@
 # LazyListHelper
 
+Download
+--------------
+Use Gradle:
+```gradle
+dependencies {
+    compile 'com.evanhou.android:lazylisthelper:1.0.0'
+}
+```
+
+
 How to use:
 --------------
 In your activity, save data into ArratList with JSONObject.
